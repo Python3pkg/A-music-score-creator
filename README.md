@@ -40,7 +40,7 @@ Example of use
 
 If you want to see a working example, in this link_ you have a video.
 
-.. _link: http://www.dailymotion.com/video/x2404p9_score-music-creator_tech
+.. _link: https://www.youtube.com/watch?v=O8YsIVSQ1JU
 
 Changelog 0.9.1
 ---------------
