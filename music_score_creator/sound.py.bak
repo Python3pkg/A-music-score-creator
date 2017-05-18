@@ -175,7 +175,7 @@ def audioProcessing(filename, audioData):
 	os.system("lilypond -s score.ly")
 
 def getLowerBound(wf):
-	print((wf.getnframes()))
+	print(wf.getnframes())
 	data = wf.readframes(wf.getnframes())
 	swidth = wf.getsampwidth()
 	indata = numpy.array(wave.struct.unpack("%dh"%(len(data)/swidth),data))
